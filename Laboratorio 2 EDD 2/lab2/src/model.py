@@ -71,7 +71,6 @@ def get_destinations(vertices: list[City]) -> None:
                     v.destinations.append(u)
                     break
 
-
 def weight(u: City, v: City) -> float:
     """
     Returns the weight of an edge given its incident vertices.
