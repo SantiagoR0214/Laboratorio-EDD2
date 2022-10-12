@@ -1,4 +1,3 @@
-from re import A
 import geopy.distance
 import pandas as pd
 import unicodedata
