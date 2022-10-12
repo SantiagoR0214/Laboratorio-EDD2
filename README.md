@@ -15,6 +15,8 @@ Referencias
 
 - Part 2. Layout | Dash for Python Documentation | Plotly. (s. f.). Recuperado 12 de octubre de 2022, de https://dash.plotly.com/layout
 
+- MiniQuark. Comentario a "What is the best way to remove accents (normalize) in a Python unicode string?". Stack Overfow. https://stackoverflow.com/a/517974
+
 Dependencias
 
 - folium
