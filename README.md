@@ -21,3 +21,4 @@ Dependencias
 
 - folium
 - dash
+- geopy
