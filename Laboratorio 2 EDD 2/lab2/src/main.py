@@ -1,7 +1,6 @@
 import dash
 from dash import html
 from dash.dependencies import Input, Output
-#import dash_core_components as dcc
 from dash import dcc
 import folium
 import model
@@ -40,9 +39,6 @@ app.layout = html.Div([
             placeholder='...',     #gray, default text shown when no option is selected
             clearable=True,                     #allow user to removes the selected value
             style={'width':"100%"},             #use dictionary to define CSS styles of your dropdown
-            # className='select_box',           #activate separate CSS document in assets folder
-            # persistence=True,                 #remembers dropdown value. Used with persistence_type
-            # persistence_type='memory'         #remembers dropdown value selected until...
             ),                                  #'memory': browser tab is refreshed
                                                 #'session': browser tab is closed
                                                 #'local': browser cookies are deleted
@@ -60,9 +56,6 @@ app.layout = html.Div([
             placeholder='...',     #gray, default text shown when no option is selected
             clearable=True,                     #allow user to removes the selected value
             style={'width':"100%"},             #use dictionary to define CSS styles of your dropdown
-            # className='select_box',           #activate separate CSS document in assets folder
-            # persistence=True,                 #remembers dropdown value. Used with persistence_type
-            # persistence_type='memory'         #remembers dropdown value selected until...
             ),                                  #'memory': browser tab is refreshed
                                                 #'session': browser tab is closed
                                                 #'local': browser cookies are deleted
