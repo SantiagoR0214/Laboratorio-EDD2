@@ -14,3 +14,8 @@ Referencias
 - Integrating Folium with Dash - Shachia Kyaagba. Medium. Recuperado 12 de octubre de 2022, de https://medium.com/@shachiakyaagba_41915/integrating-folium-with-dash-5338604e7c56 
 
 - Part 2. Layout | Dash for Python Documentation | Plotly. (s. f.). Recuperado 12 de octubre de 2022, de https://dash.plotly.com/layout
+
+Dependencias
+
+- folium
+- dash
